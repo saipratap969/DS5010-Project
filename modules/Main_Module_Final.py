@@ -90,8 +90,7 @@ def word_count(ds_type):
             print("\nThe word with maximum key is : "+create_bst.getmax().key)
             print("\nThe word with minimum key is : "+create_bst.getmin().key)
         
-        
-        
+                
         ip2=input('\nTo delete any key please enter 1 else enter 0')
         
         if ip2=='1':
